@@ -7,7 +7,7 @@ This project, led by Federico Vargas, Pilar Ordás, Almudena Corella, Alberto Ta
 
 To run the project, follow these steps:
 
-### 1. Create a Virtual Environment with Python 3.9.18
+### 1. Create a Virtual Environment with Python 3.10
 
 You can use your preferred tool for creating virtual environments.
 

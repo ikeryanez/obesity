@@ -1,7 +1,7 @@
 
 # Obesity Prediction Using Deep Learning
 
-This project, led by Federico Vargas, Pilar Ordás, Almudena Corella, Alberto Tapia, Gabriel Zamora and Iker Yáñez, serves as the final group project for the Master's in Big Data Science program at the University of Navarra. By leveraging advanced Deep Learning techniques, the project aims to develop predictive models for identifying individuals at risk of obesity early on, thus enabling targeted interventions and personalized healthcare approaches. Through structured data preprocessing, model training, and evaluation processes, coupled with real-world deployment strategies, the project seeks to make significant contributions to preventive healthcare strategies, ultimately improving health outcomes and reducing healthcare costs.
+This project, led by Federico Vargas, Pilar Ordás, Almudena Corella, Alberto Tapia, Gabriel Zamora, and Iker Yáñez, serves as the final group project for the Master's in Big Data Science program at the University of Navarra. Leveraging advanced Deep Learning techniques, the project aims to develop predictive models for classification, specifically targeting the classification of health insurance customers. The objective is to accurately classify customers based on their health-related attributes, enabling insurance companies to offer personalized insurance premiums. Through structured data preprocessing, model training, and evaluation processes, combined with real-world deployment strategies, the project aims to significantly contribute to insurance companies' ability to provide tailored healthcare coverage.
 
 ## Running the project
 

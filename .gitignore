@@ -1,0 +1,38 @@
+# IDE files
+.vscode/
+.idea/
+
+# Editor configuration
+*.swp
+*~
+*.bak
+
+# Local configuration files
+*.env
+*.env.local
+.env.local.php
+.env.local.py
+.env.local.rb
+.env.local.sh
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Data files
+data/
+
+# Model files
+models/
+
+# Log files
+logs/
+
+# Temporary files
+tmp/
+temp/
+
+# Poetry generated files
+poetry.lock

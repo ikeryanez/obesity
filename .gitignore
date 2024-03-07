@@ -21,9 +21,6 @@
 # Jupyter Notebook checkpoints
 .ipynb_checkpoints/
 
-# Data files
-data/
-
 # Model files
 models/
 

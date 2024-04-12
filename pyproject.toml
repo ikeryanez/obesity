@@ -14,7 +14,8 @@ numpy = "^1.26.4"
 optuna = "^3.6.1"
 xgboost = "^2.0.3"
 statsmodels = "^0.14.1"
-pandas-profiling = "^3.6.6"
+ydata-profiling = "^4.7.0"
+ipywidgets = "^8.1.2"
 
 
 [build-system]

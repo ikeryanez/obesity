@@ -6,7 +6,7 @@ authors = ["ikeryanez <ikeryanez@gmail.com>"]
 readme = "README.md"
 
 [tool.poetry.dependencies]
-python = "3.10.13"
+python = "^3.10"
 matplotlib = "^3.8.3"
 scikit-learn = "^1.4.1.post1"
 seaborn = ">=0.12.2,<0.13.0"

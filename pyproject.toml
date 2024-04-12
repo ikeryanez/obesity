@@ -13,6 +13,7 @@ seaborn = ">=0.12.2,<0.13.0"
 numpy = "^1.26.4"
 optuna = "^3.6.1"
 xgboost = "^2.0.3"
+statsmodels = "^0.14.1"
 
 
 [build-system]
